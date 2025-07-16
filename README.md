@@ -1,5 +1,10 @@
 
 👋 Hi, I'm Sourav Shetty!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](linkedin.com/in/sourav-s-shetty)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-000?logo=vercel&style=for-the-badge)](https://your-portfolio-link.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&style=for-the-badge)](https://leetcode.com/YOUR_USERNAME)
+[![Credly](https://img.shields.io/badge/Credly-Certifications-blueviolet?logo=credly&style=for-the-badge)](https://www.credly.com/users/YOUR_USERNAME)
+
 LinkedIn Portfolio leetcode Credly
 
 Welcome to my GitHub! I'm a passionate Full Stack Software Engineer with a strong foundation in frontend development and expertise in modern web technologies like React.js, Angular, and Node.js. Currently, I'm honing my skills in Information Technology Solutions at Humber College, and I'm always looking for new challenges to further enhance my technical skills.
