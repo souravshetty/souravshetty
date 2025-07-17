@@ -1,5 +1,6 @@
 
-**👋 Hi, I'm Sourav Shetty!**
+<h1 style="margin-bottom: 20px;"><strong>👋 Hi, I'm Sourav Shetty!</strong></h1>
+
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/sourav-s-shetty)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-000?logo=vercel&style=for-the-badge)](https://your-portfolio-link.com)
