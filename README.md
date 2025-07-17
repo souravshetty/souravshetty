@@ -3,9 +3,9 @@
 <br>
 
 <!-- Add a blank line here -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/sourav-s-shetty)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-000?logo=vercel&style=for-the-badge)](https://your-portfolio-link.com)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&style=for-the-badge)](https://leetcode.com/YOUR_USERNAME)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/sourav-s-shetty)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-000?logo=vercel&style=for-the-badge)](https://your-portfolio-link.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&style=for-the-badge)](https://leetcode.com/YOUR_USERNAME)
 [![Credly](https://img.shields.io/badge/Credly-Certifications-blueviolet?logo=credly&style=for-the-badge)](https://www.credly.com/users/YOUR_USERNAME)
 
 
