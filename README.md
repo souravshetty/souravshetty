@@ -8,9 +8,10 @@
 
 
 Welcome to my GitHub! I'm a passionate Full Stack Software Engineer with a strong foundation in frontend development and expertise in modern web technologies like React.js, Angular, and Node.js. Currently, I'm honing my skills in Information Technology Solutions at Humber College, and I'm always looking for new challenges to further enhance my technical skills.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souravshetty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souravshetty&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 🛠️ Tech Stack
 Frontend: JavaScript TypeScript React Redux Next Angular
