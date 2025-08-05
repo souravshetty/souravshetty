@@ -59,22 +59,10 @@ Welcome to my GitHub! I'm a passionate Full Stack Software Engineer with a stron
 
 
 💼 Experience
-Full Stack Developer Intern | Credwise
-January 2025 - Present | Canada
+Quality Assurance Engineer | TestYantra Private.Ltd
+January 2020 - March 2024 | India
 
-Built a web app, ImmigrateX, using the MERN stack to help immigrants access housing, car rentals, and essential resources for transitioning to Canada.
-Designed and developed client onboarding features for realtors and car dealerships, including document uploads, soft credit checks, and service listings.
-Created checklists and resources for pre-arrival and post-arrival tasks like applying for SIN, health cards, and setting up essential services.
 
-Built a comprehensive resource library by collecting and verifying video resources, literature, and website articles to bridge theoretical knowledge with practical applications.
-Developed a specialized library of resources focused on Advanced Java, C#, data structures, and design patterns, supporting students and educators in mastering these critical technical topics.
-Software Engineer | Coforge
-May 2021 - August 2023 | India
-
-Contributed to the successful execution of the Lifewriter project for a US-based insurance company, building responsive and user-friendly web interfaces.
-Utilized Angular, Typescript, HTML, CSS, Spring Boot, and Postman to create dynamic web applications.
-Collaborated with cross-functional teams and UI/UX designers to implement highly accessible, modern, and brand-compliant frontend elements.
-Engaged in agile methodologies and participated in sprint planning, daily stand-ups, and retrospectives.
 🎓 Education
 Langara College 
 Graduate Certificate, Web and Mobile App Development
