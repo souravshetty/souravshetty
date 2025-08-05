@@ -65,8 +65,6 @@ January 2025 - Present | Canada
 Built a web app, ImmigrateX, using the MERN stack to help immigrants access housing, car rentals, and essential resources for transitioning to Canada.
 Designed and developed client onboarding features for realtors and car dealerships, including document uploads, soft credit checks, and service listings.
 Created checklists and resources for pre-arrival and post-arrival tasks like applying for SIN, health cards, and setting up essential services.
-Research Associate | Humber Polytechnic
-November 2024 - December 2024 | Canada
 
 Built a comprehensive resource library by collecting and verifying video resources, literature, and website articles to bridge theoretical knowledge with practical applications.
 Developed a specialized library of resources focused on Advanced Java, C#, data structures, and design patterns, supporting students and educators in mastering these critical technical topics.
