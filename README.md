@@ -58,12 +58,12 @@ Welcome to my GitHub! I'm a passionate Full Stack Software Engineer with a stron
 
 
 
-💼 Experience
+💼 Experience <br>
 Quality Assurance Engineer | TestYantra Private.Ltd
 January 2020 - March 2024 | India
 
-
-🎓 Education
+<br>
+🎓 Education<br>
 Langara College 
 Graduate Certificate, Web and Mobile App Development
 2024 - 2025 | British Coloumbia, Canada
